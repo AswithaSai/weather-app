@@ -16,7 +16,7 @@ A simple weather application that allows users to check the current weather cond
 
 https://aswithasai.github.io/weather-app/
 
-![Weather App Screenshot](weather-app/blob/main/assets/Screenshot%202024-11-30%20154808.png)
+![Weather App Screenshot](weather-app/main/assets/Screenshot%202024-11-30%20154808.png)
 
 ## Features
 
